@@ -1,0 +1,348 @@
+KD_NO|DRUG_CD|DRUG_CHEM|WHO_ATC_CD|WHOART_ARRN|WHOART_SEQ|CERTAIN|PROBABLE|POSSIBLE|UNLIKELY|UNCLASSIFIED|UNASSESSABLE|NOT_APPLICABLE
+7303120||Expectorants|R05CA|0101|001|||||||
+7303120||Opium derivatives and expectorants|R05FA|0101|001|||||||
+7303120||Other antihistamines for systemic use|R06AX|0101|001|||||||
+7303120||acetylsalicylic acid|N02BA01|0101|001|||||||
+7303120||erdosteine|R05CB15|0101|001|||||||
+7303120||esomeprazole|A02BC05|0101|001|||||||
+7303120||montelukast|R03DC03|0101|001|||||||
+7303120||morniflumate|M01AX22|0101|001|||||||
+7303120||rosuvastatin|C10AA07|0101|001|||||||
+7303120||theobromine|R03DA07|0101|001|||||||
+7303120||trimetazidine|C01EB15|0101|001|||||||
+7303120||valsartan and lercanidipine|C09DB08|0101|001||||1|||
+7303120|200810868|montelukast|R03DC03|0101|001|||||||
+8786381||Expectorants|R05CA|0205|001|||1||||
+8786381||Expectorants|R05CA|0268|010|||1||||
+8786381||Expectorants|R05CA|0268|013|||1||||
+8786381||Expectorants|R05CA|0308|001|||1||||
+8786381||acetylcysteine|R05CB01|0205|001|||1||||
+8786381||acetylcysteine|R05CB01|0268|010|||1||||
+8786381||acetylcysteine|R05CB01|0268|013|||1||||
+8786381||acetylcysteine|R05CB01|0308|001|||1||||
+8786381||clarithromycin|J01FA09|0205|001|||1||||
+8786381||clarithromycin|J01FA09|0268|010|||1||||
+8786381||clarithromycin|J01FA09|0268|013|||1||||
+8786381||clarithromycin|J01FA09|0308|001|||1||||
+8786381||levodropropizine|R05DB27|0205|001|||1||||
+8786381||levodropropizine|R05DB27|0268|010|||1||||
+8786381||levodropropizine|R05DB27|0268|013|||1||||
+8786381||levodropropizine|R05DB27|0308|001|||1||||
+8786381|200810868|montelukast|R03DC03|0205|001|||1||||
+8786381|200810868|montelukast|R03DC03|0268|010|||1||||
+8786381|200810868|montelukast|R03DC03|0268|013|||1||||
+8786381|200810868|montelukast|R03DC03|0308|001|||1||||
+17133511||Expectorants|R05CA|0101|001|||||||
+17133511||Opium derivatives and expectorants|R05FA|0101|001|||||||
+17133511||Other antihistamines for systemic use|R06AX|0101|001|||||||
+17133511||acetylsalicylic acid|N02BA01|0101|001|||||||
+17133511||erdosteine|R05CB15|0101|001|||||||
+17133511||esomeprazole|A02BC05|0101|001|||||||
+17133511||montelukast|R03DC03|0101|001|||||||
+17133511||morniflumate|M01AX22|0101|001|||||||
+17133511||rosuvastatin|C10AA07|0101|001|||||||
+17133511||theobromine|R03DA07|0101|001|||||||
+17133511||trimetazidine|C01EB15|0101|001|||||||
+17133511||valsartan and lercanidipine|C09DB08|0101|001||||1|||
+17133511|200810868|montelukast|R03DC03|0101|001|||||||
+84029797||Antidotes|V03AB|0513|001||||1|||
+84029797||Opium derivatives and expectorants|R05FA|0513|001|||||||
+84029797||bisoprolol|C07AB07|0513|001|||||||
+84029797||cetirizine|R06AE07|0513|001|||||||
+84029797||dutasteride|G04CB02|0513|001|||||||
+84029797||furosemide|C03CA01|0513|001|||||||
+84029797||lafutidine|A02BA08|0513|001|||||||
+84029797||nebivolol|C07AB12|0513|001|||||||
+84029797||olmesartan medoxomil|C09CA08|0513|001|||||||
+84029797||polystyrene sulfonate|V03AE01|0513|001|||||||
+84029797||tamsulosin|G04CA02|0513|001|||||||
+84029797|200810868|montelukast|R03DC03|0513|001|||||||
+113397364||Enzymes|M09AB|0513|004|||1||||
+113397364||Other capillary stabilizing agents|C05CX|0513|004||||1|||
+113397364||cefaclor|J01DC04|0513|004|||1||||
+113397364||mosapride|A03FA09|0513|004||||1|||
+113397364||tizanidine|M03BX02|0513|004|||1||||
+113397364||tramadol and paracetamol|N02AJ13|0513|004|||1||||
+113397364|200810868|montelukast|R03DC03|0513|004||1|||||
+150232324||Expectorants|R05CA|0308|001|||1||||
+150232324||Opium derivatives and expectorants|R05FA|0308|001|||1||||
+150232324||amoxicillin and beta-lactamase inhibitor|J01CR02|0308|001|||1||||
+150232324||cimetidine|A02BA01|0308|001||||1|||
+150232324||levocetirizine|R06AE09|0308|001|||1||||
+150232324||methylprednisolone|H02AB04|0308|001|||1||||
+150232324|200810868|montelukast|R03DC03|0308|001|||1||||
+163431992||COUGH AND COLD PREPARATIONS|R05|0183|004|||1||||
+163431992||levocetirizine|R06AE09|0183|004|||1||||
+163431992||metoclopramide|A03FA01|0183|004|||1||||
+163431992||rabeprazole|A02BC04|0183|004|||1||||
+163431992||roxithromycin|J01FA06|0183|004|||1||||
+163431992||theophylline|R03DA04|0183|004|||1||||
+163431992|200810868|montelukast|R03DC03|0183|004|||1||||
+189273658||atorvastatin|C10AA05|0433|004|||1||||
+189273658||levocetirizine|R06AE09|0433|004|||1||||
+189273658||simvastatin and ezetimibe|C10BA02|0433|004||||1|||
+189273658||theobromine|R03DA07|0433|004|||1||||
+189273658|200810868|montelukast|R03DC03|0433|004|||1||||
+197909852||OTHER DRUGS FOR ACID RELATED DISORDERS|A02X|0101|001|||1||||
+197909852||Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)|A02BX|0101|001|||1||||
+197909852||Various alimentary tract and metabolism products|A16AX|0101|001|||1||||
+197909852||alginic acid|A02BX13|0101|001|||1||||
+197909852||doxofylline|R03DA11|0101|001|||1||||
+197909852||esomeprazole|A02BC05|0101|001|||1||||
+197909852||olmesartan medoxomil|C09CA08|0101|001|||1||||
+197909852||raloxifene|G03XC01|0101|001|||1||||
+197909852|200810868|montelukast|R03DC03|0101|001|||1||||
+208501867||Liver therapy|A05BA|0514|001|||||||
+208501867||acetylsalicylic acid|B01AC06|0514|001|||||||
+208501867||anagrelide|L01XX35|0514|001|||||||
+208501867||clopidogrel|B01AC04|0514|001|||||||
+208501867||diltiazem|C08DB01|0514|001|||||||
+208501867||doxazosin|C02CA04|0514|001|||||||
+208501867||doxofylline|R03DA11|0514|001|||||||
+208501867||erdosteine|R05CB15|0514|001|||||||
+208501867||finasteride|G04CB01|0514|001|||||||
+208501867||furosemide|C03CA01|0514|001|||||||
+208501867||irbesartan|C09CA04|0514|001||||1|||
+208501867||nicorandil|C01DX16|0514|001|||||||
+208501867||pitavastatin|C10AA08|0514|001|||||||
+208501867|200810868|montelukast|R03DC03|0514|001|||||||
+234988651||Expectorants|R05CA|0101|001|||||||
+234988651||Opium derivatives and expectorants|R05FA|0101|001|||||||
+234988651||Other antihistamines for systemic use|R06AX|0101|001|||||||
+234988651||acetylsalicylic acid|N02BA01|0101|001|||||||
+234988651||erdosteine|R05CB15|0101|001|||||||
+234988651||esomeprazole|A02BC05|0101|001|||||||
+234988651||montelukast|R03DC03|0101|001|||||||
+234988651||morniflumate|M01AX22|0101|001|||||||
+234988651||rosuvastatin|C10AA07|0101|001|||||||
+234988651||theobromine|R03DA07|0101|001|||||||
+234988651||trimetazidine|C01EB15|0101|001|||||||
+234988651||valsartan and lercanidipine|C09DB08|0101|001||||1|||
+234988651|200810868|montelukast|R03DC03|0101|001|||||||
+240653653||DIGESTIVES, INCL. ENZYMES|A09A|0205|001||||1|||
+240653653||Enzymes|M09AB|0205|001|||1||||
+240653653||Opium derivatives and expectorants|R05FA|0205|001|||1||||
+240653653||amoxicillin and beta-lactamase inhibitor|J01CR02|0205|001|||1||||
+240653653||fluticasone furoate|R01AD12|0205|001||||1|||
+240653653||levocetirizine|R06AE09|0205|001|||1||||
+240653653||paracetamol|N02BE01|0205|001||||1|||
+240653653|200810868|montelukast|R03DC03|0205|001|||1||||
+245700779||Opium derivatives and expectorants|R05FA|0718|003||||1|||
+245700779||Opium derivatives and expectorants|R05FA|0718|003|||1||||
+245700779||Opium derivatives and expectorants|R05FA|1705|008||||1|||
+245700779||ambroxol|R05CB06|0718|003|||1||||
+245700779||ambroxol|R05CB06|1705|008||||1|||
+245700779||bambuterol|R03CC12|0718|003||||1|||
+245700779||bambuterol|R03CC12|1705|008||||1|||
+245700779||cefpodoxime|J01DD13|0718|003|||1||||
+245700779||cefpodoxime|J01DD13|1705|008||||1|||
+245700779||cimetidine|A02BA01|0718|003||||1|||
+245700779||cimetidine|A02BA01|1705|008|||1||||
+245700779||doxofylline|R03DA11|0718|003|||1||||
+245700779||doxofylline|R03DA11|1705|008|||1||||
+245700779||paracetamol|N02BE01|0718|003|||1||||
+245700779||paracetamol|N02BE01|1705|008|||1||||
+245700779|200810868|montelukast|R03DC03|0718|003||||1|||
+245700779|200810868|montelukast|R03DC03|1705|008||||1|||
+268929356||Opium derivatives and expectorants|R05FA|0204|001|||1||||
+268929356||erdosteine|R05CB15|0204|001||||1|||
+268929356||levocetirizine|R06AE09|0204|001|||1||||
+268929356|200810868|montelukast|R03DC03|0204|001||||1|||
+274789894||Other antihistamines for systemic use|R06AX|0279|014|||1||||
+274789894||methylprednisolone|H02AB04|0279|014|||1||||
+274789894||ordinary salt combinations|A02AD01|0279|014|||1||||
+274789894|200810868|montelukast|R03DC03|0279|014|||1||||
+279779783||Enzymes|M09AB|0228|001|||1||||
+279779783||Opium derivatives and expectorants|R05FA|0228|001|||1||||
+279779783||amoxicillin and beta-lactamase inhibitor|J01CR02|0228|001|||1||||
+279779783||levocetirizine|R06AE09|0228|001|||1||||
+279779783||mometasone|R01AD09|0228|001|||1||||
+279779783||paracetamol|N02BE01|0228|001|||1||||
+279779783|200810868|montelukast|R03DC03|0228|001|||1||||
+341920012||Enzymes|M09AB|0205|001|||1||||
+341920012||Opium derivatives and expectorants|R05FA|0205|001|||1||||
+341920012||amoxicillin and beta-lactamase inhibitor|J01CR02|0205|001|||1||||
+341920012||pseudoephedrine, combinations|R01BA52|0205|001||||1|||
+341920012|200810868|montelukast|R03DC03|0205|001|||1||||
+364831726||azelastine|R06AX19|0028|003|||1||||
+364831726||diltiazem|C08DB01|0028|003|||1||||
+364831726|200810868|montelukast|R03DC03|0028|003|||1||||
+400513476||Enzymes|M09AB|0205|001|||1||||
+400513476||Opium derivatives and expectorants|R05FA|0205|001|||1||||
+400513476||amoxicillin and beta-lactamase inhibitor|J01CR02|0205|001|||1||||
+400513476||levocetirizine|R06AE09|0205|001|||1||||
+400513476||paracetamol|N02BE01|0205|001||||1|||
+400513476|200810868|montelukast|R03DC03|0205|001|||1||||
+405759241||erdosteine|R05CB15|0279|011|||1||||
+405759241||erdosteine|R05CB15|0605|001|||1||||
+405759241|200810868|montelukast|R03DC03|0279|011|||||||
+405759241|200810868|montelukast|R03DC03|0605|001|||||||
+421988361||COUGH AND COLD PREPARATIONS|R05|0166|004|||1||||
+421988361||COUGH AND COLD PREPARATIONS|R05|0183|004|||1||||
+421988361||COUGH AND COLD PREPARATIONS|R05|0221|001|||1||||
+421988361||Expectorants|R05CA|0166|004||||1|||
+421988361||Expectorants|R05CA|0183|004|||1||||
+421988361||Expectorants|R05CA|0221|001|||1||||
+421988361||amoxicillin|J01CA04|0166|004|||1||||
+421988361||amoxicillin|J01CA04|0183|004|||1||||
+421988361||amoxicillin|J01CA04|0221|001||||1|||
+421988361||magnesium hydroxide|A02AA04|0166|004||||1|||
+421988361||magnesium hydroxide|A02AA04|0183|004||||1|||
+421988361||magnesium hydroxide|A02AA04|0221|001||||1|||
+421988361||paracetamol|N02BE01|0166|004||||1|||
+421988361||paracetamol|N02BE01|0183|004||||1|||
+421988361||paracetamol|N02BE01|0221|001||||1|||
+421988361||theophylline|R03DA04|0166|004|||1||||
+421988361||theophylline|R03DA04|0183|004|||1||||
+421988361||theophylline|R03DA04|0221|001|||1||||
+421988361|200810868|montelukast|R03DC03|0166|004|||1||||
+421988361|200810868|montelukast|R03DC03|0183|004|||1||||
+421988361|200810868|montelukast|R03DC03|0221|001|||1||||
+448479867||Bisphosphonates, combinations|M05BB|0221|005||||1|||
+448479867||Expectorants|R05CA|0221|005||||1|||
+448479867||cimetidine|A02BA01|0221|005|||1||||
+448479867||levocetirizine|R06AE09|0221|005|||1||||
+448479867||paracetamol|N02BE01|0221|005||||1|||
+448479867||roxithromycin|J01FA06|0221|005|||1||||
+448479867||theobromine|R03DA07|0221|005|||1||||
+448479867|200810868|montelukast|R03DC03|0221|005|||1||||
+453611137||Enzymes|M09AB|0741|006||||1|||
+453611137||Opium derivatives and expectorants|R05FA|0741|006||||1|||
+453611137||amoxicillin and beta-lactamase inhibitor|J01CR02|0741|006||||1|||
+453611137||erdosteine|R05CB15|0741|006||||1|||
+453611137||fluconazole|J02AC01|0741|006|||1||||
+453611137||formoterol and budesonide|R03AK07|0741|006|||||||
+453611137||levocetirizine|R06AE09|0741|006||||1|||
+453611137||paracetamol|N02BE01|0741|006||||1|||
+453611137|200810868|montelukast|R03DC03|0741|006||||1|||
+513850176||Opium derivatives and expectorants|R05FA|0137|001|||1||||
+513850176||levocetirizine|R06AE09|0137|001||||1|||
+513850176||losartan and amlodipine|C09DB06|0137|001|||1||||
+513850176||pitavastatin|C10AA08|0137|001||||1|||
+513850176||rabeprazole|A02BC04|0137|001|||1||||
+513850176||theobromine|R03DA07|0137|001||||1|||
+513850176|200810868|montelukast|R03DC03|0137|001||||1|||
+538941659||doxofylline|R03DA11|0183|004||1|||||
+538941659||erdosteine|R05CB15|0183|004||||1|||
+538941659||levodropropizine|R05DB27|0183|004||||1|||
+538941659||salmeterol and fluticasone|R03AK06|0183|004|||1||||
+538941659|200810868|montelukast|R03DC03|0183|004|||1||||
+568939028||fexofenadine|R06AX26|0197|008|||1||||
+568939028||levocetirizine|R06AE09|0197|008|||1||||
+568939028||methylprednisolone|H02AB04|0197|008||||1|||
+568939028||ranitidine|A02BA02|0197|008|||1||||
+568939028|200810868|montelukast|R03DC03|0197|008|||1||||
+580107926||Other antihistamines for systemic use|R06AX|0197|008|||1||||
+580107926||methylprednisolone|H02AB04|0197|008||||1|||
+580107926||pseudoephedrine|R01BA02|0197|008|||1||||
+580107926|200810868|montelukast|R03DC03|0197|008|||1||||
+614264379||Expectorants|R05CA|0308|001|||1||||
+614264379||acetylcysteine|R05CB01|0308|001|||||||
+614264379|200810868|montelukast|R03DC03|0308|001|||||||
+635030100||doxofylline|R03DA11|0101|001|||1||||
+635030100||levocetirizine|R06AE09|0101|001|||1||||
+635030100|200810868|montelukast|R03DC03|0101|001|||1||||
+667721361||cefuroxime|J01DC02|0218|004|||1||||
+667721361||mosapride|A03FA09|0218|004|||1||||
+667721361||pseudoephedrine, combinations|R01BA52|0218|004|||1||||
+667721361|200810868|montelukast|R03DC03|0218|004||||1|||
+800722314||Enzymes|M09AB|0228|003|||1||||
+800722314||Opium derivatives and expectorants|R05FA|0228|003|||1||||
+800722314||amoxicillin and beta-lactamase inhibitor|J01CR02|0228|003|||1||||
+800722314||levocetirizine|R06AE09|0228|003|||1||||
+800722314||paracetamol|N02BE01|0228|003|||1||||
+800722314||roxithromycin|J01FA06|0228|003|||1||||
+800722314|200810868|montelukast|R03DC03|0228|003|||1||||
+871733883||Enzymes|M09AB|0228|003|||1||||
+871733883||amoxicillin and beta-lactamase inhibitor|J01CR02|0228|003|||1||||
+871733883||erdosteine|R05CB15|0228|003|||1||||
+871733883||levocetirizine|R06AE09|0228|003|||1||||
+871733883|200810868|montelukast|R03DC03|0228|003|||1||||
+981476544||DIGESTIVES, INCL. ENZYMES|A09A|0939|001||||1|||
+981476544||dexlansoprazole|A02BC06|0939|001|||1||||
+981476544||domperidone|A03FA03|0939|001|||1||||
+981476544||fenoterol|R03CC04|0939|001|||1||||
+981476544||lactulose|A06AD11|0939|001||||1|||
+981476544||magnesium hydroxide|A02AA04|0939|001||||1|||
+981476544||sucralfate|A02BX02|0939|001||||1|||
+981476544|200810868|montelukast|R03DC03|0939|001|||1||||
+992479438||Enzymes|M09AB|0308|003|||1||||
+992479438||Expectorants|R05CA|0308|003|||1||||
+992479438||amoxicillin and beta-lactamase inhibitor|J01CR02|0308|003|||1||||
+992479438||cimetidine|A02BA01|0308|003|||1||||
+992479438||pseudoephedrine, combinations|R01BA52|0308|003|||1||||
+992479438||theobromine|R03DA07|0308|003|||1||||
+992479438||tiropramide|A03AC05|0308|003|||1||||
+992479438|200810868|montelukast|R03DC03|0308|003|||1||||
+1019604811||H2-receptor antagonists|A02BA|0003|001||1|||||
+1019604811||H2-receptor antagonists|A02BA|0044|001||1|||||
+1019604811||aceclofenac|M01AB16|0003|001||1|||||
+1019604811||aceclofenac|M01AB16|0044|001||1|||||
+1019604811||cefaclor|J01DC04|0003|001||1|||||
+1019604811||cefaclor|J01DC04|0044|001||1|||||
+1019604811|200810868|montelukast|R03DC03|0003|001||1|||||
+1019604811|200810868|montelukast|R03DC03|0044|001||1|||||
+1035136236||Enzymes|M09AB|0652|001||||1|||
+1035136236||Enzymes|M09AB|0657|004||||1|||
+1035136236||Expectorants|R05CA|0652|001||||1|||
+1035136236||Expectorants|R05CA|0657|004||||1|||
+1035136236||Propulsives|A03FA|0652|001||1|||||
+1035136236||Propulsives|A03FA|0657|004|||1||||
+1035136236||amoxicillin and beta-lactamase inhibitor|J01CR02|0652|001|||1||||
+1035136236||amoxicillin and beta-lactamase inhibitor|J01CR02|0657|004||||1|||
+1035136236||chlorphenamine|R06AB04|0652|001||||1|||
+1035136236||chlorphenamine|R06AB04|0657|004||||1|||
+1035136236||paracetamol|N02BE01|0652|001||||1|||
+1035136236||paracetamol|N02BE01|0657|004||||1|||
+1035136236||triazolam|N05CD05|0652|001||||1|||
+1035136236||triazolam|N05CD05|0657|004|||1||||
+1035136236|200810868|montelukast|R03DC03|0652|001||||1|||
+1035136236|200810868|montelukast|R03DC03|0657|004||||1|||
+1055150086||Expectorants|R05CA|0308|001|||1||||
+1055150086||roxithromycin|J01FA06|0308|001|||1||||
+1055150086||theobromine|R03DA07|0308|001|||1||||
+1055150086|200810868|montelukast|R03DC03|0308|001|||1||||
+1057723248||esomeprazole|A02BC05|0279|011|||1||||
+1057723248||esomeprazole|A02BC05|0400|008|||1||||
+1057723248||levocetirizine|R06AE09|0279|011|||1||||
+1057723248||levocetirizine|R06AE09|0400|008|||1||||
+1057723248||mosapride|A03FA09|0279|011|||1||||
+1057723248||mosapride|A03FA09|0400|008||||1|||
+1057723248||salmeterol and fluticasone|R03AK06|0279|011|||1||||
+1057723248||salmeterol and fluticasone|R03AK06|0400|008||||1|||
+1057723248||theobromine|R03DA07|0279|011|||1||||
+1057723248||theobromine|R03DA07|0400|008|||1||||
+1057723248|200810868|montelukast|R03DC03|0279|011|||1||||
+1057723248|200810868|montelukast|R03DC03|0400|008|||1||||
+3930135078|200810868|montelukast|R03DC03|0024|003|||1||||
+3930135078|200810868|montelukast|R03DC03|0027|001|||1||||
+3930135078|200810868|montelukast|R03DC03|0044|001|||1||||
+3930135078|200810868|montelukast|R03DC03|0228|001|||1||||
+3930135078|200810868|montelukast|R03DC03|0308|001|||1||||
+5785693959||Piperazine derivatives|R06AE|0044|001|||1||||
+5785693959||atorvastatin|C10AA05|0044|001|||1||||
+5785693959||clopidogrel|B01AC04|0044|001|||1||||
+5785693959||olmesartan medoxomil|C09CA08|0044|001|||1||||
+5785693959|200810868|montelukast|R03DC03|0044|001|||1||||
+8914048921|200810868|montelukast|R03DC03|0183|001||1|||||
+100716377774||doxofylline|R03DA11|0513|001|||||||
+100716377774||fexofenadine|R06AX26|0513|001|||||||
+100716377774||olmesartan medoxomil|C09CA08|0513|001|||||||
+100716377774||salmeterol and fluticasone|R03AK06|0513|001|||||||
+100716377774|200810868|montelukast|R03DC03|0513|001|||||||
+102107240998||cetirizine|R06AE07|0459|001|||1||||
+102107240998||irbesartan|C09CA04|0459|001|||1||||
+102107240998|200810868|montelukast|R03DC03|0459|001|||1||||
+105066581839|200810868|montelukast|R03DC03|0044|001||1|||||
+106046374750||cefetamet|J01DD10|0027|007|||1||||
+106046374750||cefetamet|J01DD10|0044|001|||1||||
+106046374750||esomeprazole|A02BC05|0027|007|||1||||
+106046374750||esomeprazole|A02BC05|0044|001|||1||||
+106046374750|200810868|montelukast|R03DC03|0027|007|||1||||
+106046374750|200810868|montelukast|R03DC03|0044|001|||1||||
+107621397742||Opium derivatives and expectorants|R05FA|0183|004|||1||||
+107621397742||ambroxol|R05CB06|0183|004||||1|||
+107621397742||famotidine|A02BA03|0183|004|||1||||
+107621397742||prednisolone|H02AB06|0183|004|||1||||
+107621397742||theophylline|R03DA04|0183|004|||1||||
+107621397742|200810868|montelukast|R03DC03|0183|004|||1||||
