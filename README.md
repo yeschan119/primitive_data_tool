@@ -17,11 +17,13 @@ develop tool for pharmacovigilance
 <br>
 
 ## **🗂 File explanation**
-1. data : 실행에 필요한 원시자료
+1. data : primitive data for testing
+    + 제품코드 : 201701182
+    + 시작일자 : 20170213
+    + 종료일자 : 현재
 2. code : main code for project
 3. sub_code : testing code for main code
-4. 201701182_20170213 : data for testing
-5. demo : 테스팅 및 시연 영상
+4. demo : 테스팅 및 시연 영상
 
 <br>
 
