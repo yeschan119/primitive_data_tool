@@ -18,8 +18,10 @@ develop tool for pharmacovigilance
 
 ## **🗂 File explanation**
 1. data : 실행에 필요한 원시자료
-3. code : gui와 기타 코드
-4. video : 진행참고 샘플영상
+2. code : main code for project
+3. sub_code : testing code for main code
+4. 201701182_20170213 : data for testing
+5. demo : 테스팅 및 시연 영상
 
 <br>
 
