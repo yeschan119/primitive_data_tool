@@ -1,7 +1,7 @@
 # Daewoong/PV-team project
 develop tool for pharmacovigilance
 
-# PV팀 의약품 부작용 원시자료
+# PV팀 의약품 부작용 원시자료 분석/처리 툴 구현
 
 ## **📢 Purpose**
   + 타 제약사에 상품화하기 위한 PV팀 summarization Tool 개발
@@ -17,15 +17,14 @@ develop tool for pharmacovigilance
 <br>
 
 ## **🗂 File explanation**
-1. data : gui 시작에 필요한 데이터
-2. old : 로그인 전 old file
-3. tkinter : 최신 파일 업데이트
+1. data : 실행에 필요한 원시자료
+3. code : gui와 기타 코드
 4. video : 진행참고 샘플영상
 
 <br>
 
 ## **✍ TASK**  
-### [6월 Time Table]
+### [7월 Time Table]
 + ipynb -> py (linelisting)
 + github 연결
 + 고객사 파일 위치 인식하게끔 변경 (개발자로컬X)
@@ -34,7 +33,6 @@ develop tool for pharmacovigilance
 + 대상품목 코드 연결 (openAPI)
 + exe 확인
 
-### [7월 Time Table]
 + **7/10 개발사항**
   + tkinter에서 불러올 수 있도록 주피터 파일 → py 파일 변환
   (analysis_def.py에 class 형식으로 함수 불러올 수 있도록 linelisting과 summary 함수 제작)
@@ -61,7 +59,7 @@ develop tool for pharmacovigilance
     ```
   + pyinstaller 제작
     ```
-    (pybase) C:\Users\User\Documents\_지선\02.프로젝트진행\03.PV팀\github\src>pyinstaller --name PV_이상사례탐지 --onefile guiapp.py --paths C:/Users/User/Documents/_지선/02.프로젝트진행/03.PV팀/github/update --noconsole --icon=C:/Users/User/Documents/_지선/02.프로젝트진행/03.PV팀/github/src/daewoong.ico
+    pyinstaller --name PV_이상사례탐지 --onefile guiapp.py --paths anywhere --noconsole --icon=icon path
     ```
   + 로그인 DB 구현 (아래는 local 코드, 현재는 AWS로 변환)
     ```mysql
@@ -85,7 +83,7 @@ develop tool for pharmacovigilance
 
 + **8월3주차 진행필요사항**
   + PV현업에서 바로 사용 가능하도록 대분류 소분류 나눠서 저장하는 function apply 
-  + 맥, window용 pyinstaller 제작 후 appendixt tool 활용해서 한번 더 보안화
+  + 맥, window용 pyinstaller 제작 후 appendix tool 활용해서 한번 더 보안
     + server 및 웹 구현 시 관리자 부재로 install형식 선택
   + 프로그레스바 초단위로 변경해서 진행상황 수치화
   + AWS RDS에 MedDRA 파일 추가
