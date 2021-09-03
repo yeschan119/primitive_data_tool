@@ -4,9 +4,14 @@ develop tool for pharmacovigilance
 # PV팀 의약품 부작용 원시자료 분석/처리 툴 구현
 
 ## **📢 Purpose**
-  + 타 제약사에 상품화하기 위한 PV팀 summarization Tool 개발
+  + PV팀 summarization Tool 개발
   + 1년, 1달 등 기간/횟수 제한하여 고객 제약사에 판매
 
+## **👨‍👧‍👦 Members**
+  + PV팀 권순길님
+  + PV팀 강응찬님
+  + IT운영팀 장지선님
+  
 <br>
 
 ## **👩‍💻 Tech**
@@ -126,4 +131,7 @@ develop tool for pharmacovigilance
     + 0은 summary tabulation. 1은 line listing. 즉 line listing작업을 하려면 Build_Table(data, 1)
     + test.start_appendix_table() 호출하면 결과값을 DataFrame으로 반환
     + 자세한 내용은 코드 메인 함수에 있음
+ 
+## **테스팅 성공**
+## **싱행파일 제작 사용**
 
