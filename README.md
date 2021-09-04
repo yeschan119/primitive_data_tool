@@ -85,8 +85,9 @@ develop tool for pharmacovigilance
     flush privileges;
     ```
   + AWS RDS 제작 및 연결
+    + RDS 제작 과정 :
     ```
-    + RDS 제작 과정 : https://dashing-guarantee-065.notion.site/DB-Application-for-Dev-7dbb7c56f298446abe906560688a8ae0
+    https://dashing-guarantee-065.notion.site/DB-Application-for-Dev-7dbb7c56f298446abe906560688a8ae0
     ```
   + 제품코드,시작일자,종료일자 누락되면 에러메세지 띄우기
 
