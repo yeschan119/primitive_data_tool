@@ -84,7 +84,7 @@ develop tool for pharmacovigilance
     # refresh
     flush privileges;
     ```
-  + AWS RDS 제작 및 연결
+  + AWS RDS 제작 및 연결 : db-2.cjfiturksrlr.ap-northeast-2.rds.amazonaws.com
     + RDS 제작 과정 :
     ```
     https://dashing-guarantee-065.notion.site/DB-Application-for-Dev-7dbb7c56f298446abe906560688a8ae0
