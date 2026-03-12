@@ -43,8 +43,8 @@ The application was implemented as a **Python desktop GUI tool** so that non-tec
 
 ```
 data/       ADR test datasets
-code/       Python data processing logic
-sub_code/   experimental / testing scripts
+demo code/       Python data processing logic
+demo sub_code/   experimental / testing scripts
 demo/       demonstration videos
 ```
 
