@@ -38,8 +38,8 @@ Python의 **Pandas 기반 데이터 처리**와 **Tkinter GUI 애플리케이션
 
 ```
 data/       테스트용 ADR 데이터
-code/       Python 분석 로직
-sub_code/   테스트 및 실험 코드
+demo code/       Python 분석 로직
+demo sub_code/   테스트 및 실험 코드
 demo/       시연 영상
 ```
 
