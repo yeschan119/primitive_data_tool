@@ -1,4 +1,4 @@
-# Python Pharmacovigilance Analytics Tool
+# Python Pharmacovigilance Analytics Tool - 대응제약 악물감시팀 프로젝트
 ### Python 기반 의약품 부작용(ADR) 데이터 분석 자동화 시스템
 
 Pharmacovigilance(PV) 팀의 **의약품 부작용(ADR) 원시 데이터**를  
