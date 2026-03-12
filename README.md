@@ -1,6 +1,8 @@
 # Pharmacovigilance Analytics Tool
 ### ADR (Adverse Drug Reaction) Data Processing System
 
+[한국어 🇰🇷](README.ko.md)
+
 Internal pharmacovigilance analytics platform developed for **Daewoong Pharmaceutical PV Team** to automate analysis and reporting of **Adverse Drug Reaction (ADR) datasets**.
 
 The tool processes raw pharmacovigilance data and generates regulatory reporting outputs including **Line Listing** and **Summary Tabulation**.
