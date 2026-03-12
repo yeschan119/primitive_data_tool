@@ -45,7 +45,7 @@ The application was implemented as a **Python desktop GUI tool** so that non-tec
 data/       ADR test datasets
 demo code/       Python data processing logic
 demo sub_code/   experimental / testing scripts
-demo/       demonstration videos
+demo/       demonstration videos - proto type
 ```
 
 ---
