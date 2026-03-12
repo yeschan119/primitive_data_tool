@@ -8,9 +8,9 @@ develop tool for pharmacovigilance
   + 1년, 1달 등 기간/횟수 제한하여 고객 제약사에 판매
 
 ## **👨‍👧‍👦 Members**
-  + PV팀 권순길님
-  + PV팀 강응찬님
-  + IT운영팀 장지선님
+  + PV팀 권순길
+  + PV팀 강응찬
+  + IT운영팀 장지선
   
 <br>
 
