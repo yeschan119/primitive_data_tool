@@ -1,4 +1,4 @@
-# Daewoong/PV-team project
+# Daewoong/PV-team project - 약물감시팀
 develop tool for pharmacovigilance
 
 # PV팀 의약품 부작용 원시자료 분석/처리 툴 구현
